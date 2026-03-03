@@ -1,0 +1,14 @@
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.DAL\bin\Debug\net9.0\KASHOP.DAL.deps.json
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.DAL\bin\Debug\net9.0\KASHOP.DAL.runtimeconfig.json
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.DAL\bin\Debug\net9.0\KASHOP.DAL.dll
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.DAL\bin\Debug\net9.0\KASHOP.DAL.pdb
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.csproj.AssemblyReference.cache
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.AssemblyInfoInputs.cache
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.AssemblyInfo.cs
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.csproj.CoreCompileInputs.cache
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.dll
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.DAL\obj\Debug\net9.0\refint\KASHOP.DAL.dll
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.pdb
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.DAL\obj\Debug\net9.0\KASHOP.DAL.genruntimeconfig.cache
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.DAL\obj\Debug\net9.0\ref\KASHOP.DAL.dll
