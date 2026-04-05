@@ -8,6 +8,7 @@ D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Debug\net9.0\KASHOP.BLL.Ge
 D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Debug\net9.0\KASHOP.BLL.AssemblyInfoInputs.cache
 D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Debug\net9.0\KASHOP.BLL.AssemblyInfo.cs
 D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Debug\net9.0\KASHOP.BLL.csproj.CoreCompileInputs.cache
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Debug\net9.0\KASHOP.BLL.sourcelink.json
 D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Debug\net9.0\KASHOP.BLL.csproj.Up2Date
 D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Debug\net9.0\KASHOP.BLL.dll
 D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Debug\net9.0\refint\KASHOP.BLL.dll

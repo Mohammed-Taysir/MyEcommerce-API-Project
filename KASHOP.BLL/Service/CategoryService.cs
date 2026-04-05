@@ -29,14 +29,60 @@ namespace KASHOP.BLL.Service
 
         public async Task<List<CategoryResponse>> GetAllCategories()
         {
-            var categories = await _categoryRepositry.GetAllAsync(new string[] { nameof(Category.Translations)});
+            var categories = await _categoryRepositry.GetAllAsync(
+                p => p.Status == EntityStatus.Active,
+                new string[] { nameof(Category.Translations)});
+
             return categories.Adapt<List<CategoryResponse>>();
         }
 
-       public async Task<CategoryResponse?> GetCategory(Expression<Func<Category, bool>> filter)
+        public async Task<CategoryResponse?> GetCategory(Expression<Func<Category, bool>> filter)
         {
             var category = await _categoryRepositry.GetOne(filter, new string[] { nameof(Category.Translations) });
             return category.Adapt<CategoryResponse>();
         }
+
+        public async Task<bool> UpdateCategoryAsync(int id, CategoryRequest request)
+        {
+            var category = await _categoryRepositry.GetOne(c => c.Id == id,
+                new string[] {nameof(Category.Translations)});
+            if (category == null) return false;
+
+            foreach(var translationRequest in request.Translations)
+            {
+                var existing = category.Translations.FirstOrDefault(t => t.Language == translationRequest.Language);
+                if(existing != null)
+                {
+                    existing.Name = translationRequest.Name;
+                }else
+                {
+                    return false;
+                }
+            }
+
+            return await _categoryRepositry.UpdateAsync(category);
+        }
+
+        public async Task<bool> DeleteCategory(int id)
+        {
+            var category = await _categoryRepositry.GetOne(c => c.Id == id);
+
+            if (category == null) return false;
+
+            return await _categoryRepositry.DeleteAsync(category);
+        }
+
+
+        public async Task<bool> ToggleStatusAsync(int id)
+        {
+            var category = await _categoryRepositry.GetOne(p => p.Id == id);
+
+            if (category == null) return false;
+
+            category.Status = category.Status == EntityStatus.Active ? EntityStatus.Inactive : EntityStatus.Active;
+            return await _categoryRepositry.UpdateAsync(category);
+        }
+
+
     }
 }

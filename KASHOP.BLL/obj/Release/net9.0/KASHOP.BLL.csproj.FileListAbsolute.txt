@@ -1,0 +1,16 @@
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\bin\Release\net9.0\KASHOP.BLL.deps.json
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\bin\Release\net9.0\KASHOP.BLL.dll
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\bin\Release\net9.0\KASHOP.BLL.pdb
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\bin\Release\net9.0\KASHOP.DAL.dll
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\bin\Release\net9.0\KASHOP.DAL.pdb
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Release\net9.0\KASHOP.BLL.csproj.AssemblyReference.cache
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Release\net9.0\KASHOP.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Release\net9.0\KASHOP.BLL.AssemblyInfoInputs.cache
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Release\net9.0\KASHOP.BLL.AssemblyInfo.cs
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Release\net9.0\KASHOP.BLL.csproj.CoreCompileInputs.cache
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Release\net9.0\KASHOP.BLL.sourcelink.json
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Release\net9.0\KASHOP.BLL.csproj.Up2Date
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Release\net9.0\KASHOP.BLL.dll
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Release\net9.0\refint\KASHOP.BLL.dll
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Release\net9.0\KASHOP.BLL.pdb
+D:\Asp.NetCoreTranining\Project\KASHOP\KASHOP.BLL\obj\Release\net9.0\ref\KASHOP.BLL.dll

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{386E3B18-55FA-45EB-8536-1F434C868224}|KASHOP.PL\\KASHOP.PL.csproj|d:\\asp.netcoretranining\\project\\kashop\\kashop.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386E3B18-55FA-45EB-8536-1F434C868224}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386E3B18-55FA-45EB-8536-1F434C868224}|KASHOP.PL\\KASHOP.PL.csproj|d:\\asp.netcoretranining\\project\\kashop\\kashop.pl\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386E3B18-55FA-45EB-8536-1F434C868224}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0130C56A-02B9-457D-810C-594BCCBC19F0}|KASHOP.BLL\\KASHOP.BLL.csproj|d:\\asp.netcoretranining\\project\\kashop\\kashop.bll\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0130C56A-02B9-457D-810C-594BCCBC19F0}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0130C56A-02B9-457D-810C-594BCCBC19F0}|KASHOP.BLL\\KASHOP.BLL.csproj|d:\\asp.netcoretranining\\project\\kashop\\kashop.bll\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0130C56A-02B9-457D-810C-594BCCBC19F0}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0130C56A-02B9-457D-810C-594BCCBC19F0}|KASHOP.BLL\\KASHOP.BLL.csproj|d:\\asp.netcoretranining\\project\\kashop\\kashop.bll\\service\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0130C56A-02B9-457D-810C-594BCCBC19F0}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\service\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC0EE4F-6A5A-4DFE-9D8A-1093BFBE606D}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\asp.netcoretranining\\project\\kashop\\kashop.dal\\dto\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC0EE4F-6A5A-4DFE-9D8A-1093BFBE606D}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\request\\categoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386E3B18-55FA-45EB-8536-1F434C868224}|KASHOP.PL\\KASHOP.PL.csproj|d:\\asp.netcoretranining\\project\\kashop\\kashop.pl\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386E3B18-55FA-45EB-8536-1F434C868224}|KASHOP.PL\\KASHOP.PL.csproj|solutionrelative:kashop.pl\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0130C56A-02B9-457D-810C-594BCCBC19F0}|KASHOP.BLL\\KASHOP.BLL.csproj|d:\\asp.netcoretranining\\project\\kashop\\kashop.bll\\service\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0130C56A-02B9-457D-810C-594BCCBC19F0}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\service\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0130C56A-02B9-457D-810C-594BCCBC19F0}|KASHOP.BLL\\KASHOP.BLL.csproj|d:\\asp.netcoretranining\\project\\kashop\\kashop.bll\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0130C56A-02B9-457D-810C-594BCCBC19F0}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0130C56A-02B9-457D-810C-594BCCBC19F0}|KASHOP.BLL\\KASHOP.BLL.csproj|d:\\asp.netcoretranining\\project\\kashop\\kashop.bll\\mapping\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0130C56A-02B9-457D-810C-594BCCBC19F0}|KASHOP.BLL\\KASHOP.BLL.csproj|solutionrelative:kashop.bll\\mapping\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FC0EE4F-6A5A-4DFE-9D8A-1093BFBE606D}|KASHOP.DAL\\KASHOP.DAL.csproj|d:\\asp.netcoretranining\\project\\kashop\\kashop.dal\\dto\\request\\productupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FC0EE4F-6A5A-4DFE-9D8A-1093BFBE606D}|KASHOP.DAL\\KASHOP.DAL.csproj|solutionrelative:kashop.dal\\dto\\request\\productupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.BLL\\Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\Service\\ICategoryService.cs",
+              "ToolTip": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.BLL\\Service\\ICategoryService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\Service\\ICategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:10:38.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryRequest.cs",
+              "DocumentMoniker": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
+              "ToolTip": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Request\\CategoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:05:42.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.BLL\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\Service\\CategoryService.cs",
+              "ToolTip": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.BLL\\Service\\CategoryService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\Service\\CategoryService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAqwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:03:43.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.PL\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "KASHOP.PL\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.PL\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "KASHOP.PL\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwF0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:03:19.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.PL\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "KASHOP.PL\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.PL\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "KASHOP.PL\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:00:36.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.PL\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "KASHOP.PL\\Controllers\\BrandsController.cs",
+              "ToolTip": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.PL\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "KASHOP.PL\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAcwFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T16:00:29.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.BLL\\Service\\IBrandService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\Service\\IBrandService.cs",
+              "ToolTip": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.BLL\\Service\\IBrandService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\Service\\IBrandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:59:34.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MapsterConfig.cs",
+              "DocumentMoniker": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.BLL\\Mapping\\MapsterConfig.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\Mapping\\MapsterConfig.cs",
+              "ToolTip": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.BLL\\Mapping\\MapsterConfig.cs",
+              "RelativeToolTip": "KASHOP.BLL\\Mapping\\MapsterConfig.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:53:04.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.BLL\\Service\\BrandService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\Service\\BrandService.cs",
+              "ToolTip": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.BLL\\Service\\BrandService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\Service\\BrandService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:51:38.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.BLL\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "KASHOP.BLL\\Service\\ProductService.cs",
+              "ToolTip": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.BLL\\Service\\ProductService.cs",
+              "RelativeToolTip": "KASHOP.BLL\\Service\\ProductService.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAYwHsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:30:19.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductUpdateRequest.cs",
+              "DocumentMoniker": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.DAL\\DTO\\Request\\ProductUpdateRequest.cs",
+              "RelativeDocumentMoniker": "KASHOP.DAL\\DTO\\Request\\ProductUpdateRequest.cs",
+              "ToolTip": "D:\\Asp.NetCoreTranining\\Project\\KASHOP\\KASHOP.DAL\\DTO\\Request\\ProductUpdateRequest.cs",
+              "RelativeToolTip": "KASHOP.DAL\\DTO\\Request\\ProductUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T15:30:03.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

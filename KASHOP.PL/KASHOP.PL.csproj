@@ -4,6 +4,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>88a60f9d-9f64-4013-9440-a0fd5a848e21</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,10 +14,19 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Scalar.AspNetCore" Version="2.13.15" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\KASHOP.BLL\KASHOP.BLL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\b50b8437-1107-44c5-9146-d256fcfd5240.png" />
   </ItemGroup>
 
 </Project>
